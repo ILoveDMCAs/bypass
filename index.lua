@@ -1,3 +1,4 @@
+```lua
 version = "v2.5-beta"
 
 local IllIllIlIlIIlIIlIIlllIlllIllllIllll = function()
@@ -683,4 +684,4 @@ return IIllIllIlIIIIIIIIllIlIIIIlllIIIIIIl(IIllIlIIIlIlllllIIIlIIlllllIllllIlI);
 end;
 };
 }
-]].."lIlIlIlIlIllIIIllIlIIlllIIlllIlIIII.IlIIIIIIlIllIIlIlIIIllIllIIlllIllll(table.concat(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, [[]]))()")
+]].."lIlIlIlIlIllIIIllIlIIlllIIlllIlIIII.IlIIIIIIlIllIIlIlIIIllIllIIlllIllll(table.concat(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, [[]]))()")```
